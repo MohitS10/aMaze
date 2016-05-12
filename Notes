@@ -1,0 +1,4 @@
+#NOTES
+
+grid: vertical :x, horizontal:y
+graphics: vertical: y, horizontal:x
